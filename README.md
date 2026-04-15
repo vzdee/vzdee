@@ -1,27 +1,39 @@
-<h1>
-  <p>Hey, I’m Mario <img width=30px src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="code"></p>
-</h1>
-
-<img align="right" width=350px src="https://res.cloudinary.com/dxsufvxeu/image/upload/v1771727680/__aemgkv.jpg">
-
-### 🧠 About Me
-<em>
-  I’m always improving how I structure and think about code.
-  Outside of tech, I’m into music and beginner photography, especially capturing sunsets.<br>
-  My time at Starbucks taught me consistency, attention to detail, and the value of great experiences.
-  I believe technology and creativity should always go together.
-</em>
-
-### 💻 Languages & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php"/>
-</p>
-
-### 👨‍💻 Favorite Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,docker,vscode" />
-</p>
- 
-  ### 🌐 Contact Me
-  <img src="https://skillicons.dev/icons?i=instagram,linkedin"/>
+<div align="center">
+  <h1>Hi, I'm Mario Mendoza 👋 | Full-Stack Developer</h1>
+  <a href="https://www.linkedin.com/in/mario-mendozac/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mariosflx/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mario.mendozac@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+  <br><br><br>
+  <blockquote align="left">
+    "Transforming complex requirements into high-performance digital solutions. Focused on clean architecture, minimalist UI, and building scalable systems that deliver impact."
+  </blockquote>
 </div>
+<br>
+
+---
+
+<img align="right" width="380" src="https://res.cloudinary.com/dxsufvxeu/image/upload/v1776213260/a_vqtpmt.png" alt="Profile Illustration">
+<br><br>
+
+**Development & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Frontend & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+**Workflow & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
